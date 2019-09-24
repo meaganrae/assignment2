@@ -1,0 +1,34 @@
+body{
+  margin: 20px;
+  background-color:#dc510c
+}
+.container{
+  position:sticky;
+  padding: 15px;
+  padding-top: 5px;
+  margin: 20px;
+  background-color: #04695d;
+  width: 1330px;
+}
+*{
+  font-family: 'Playfair Display', serif;
+}
+.title{
+  position: relative;
+  background-color: #04695d;
+  font-size: 10pt;
+  font-style: italic;
+}
+.lines{
+  font-size: 12pt;
+}
+.ending{
+  background-color: orange;
+  margin:12px;
+  padding-left: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-right: 10px;
+  border-radius: 2px;
+  font-style: italic;
+}
