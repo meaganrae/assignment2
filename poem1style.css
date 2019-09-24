@@ -1,0 +1,33 @@
+body{
+  margin-left: 400px;
+  margin-top: 250px;
+  background-color: white;
+}
+*{
+  font-family: 'Roboto Mono', monospace;
+  font-size:  5pt;
+}
+.container{
+  color: white;
+}
+.bookleft{
+  background-color: black;
+  position: fixed;
+  z-index: -1;
+  top: 200px;
+  left: 350px;
+  width: 300px;
+  height: 400px;
+  border-radius: 10px;
+}
+.bookright{
+  background-color: black;
+  position: fixed;
+  z-index: -1;
+  top: 200px;
+  left: 635px;
+  width: 300px;
+  height: 400px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px 2px white;
+}
